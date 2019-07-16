@@ -1,17 +1,17 @@
 # Prediction-of-Car-Prices
 Build, Develop and Deploy a Machine Learning Model to predict cars price using Linear Regression. To understand the factors on which the pricing of cars depends for aspire to enter the current market businesses
 
-# 1. Understanding the Data
+1. Understanding the Data
 
-# 2. Data cleaning
+2. Data cleaning
 
-# 3. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 
-# 4. Data Preparation
+4. Data Preparation
 
-# 5. Model Building
+5. Model Building
 
-# 6. Prediction and Evaluation
+6. Prediction and Evaluation
 
 Go through in brife way
 * After the Data Extraction and Data Preprocessing steps, I should now visualize my data set so that I can have more insights about what is happening under the hood, and how my data is distributed.
